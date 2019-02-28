@@ -2,7 +2,7 @@
   "dogs": [
     {
       "id": 1,
-      "name": "yo",
+      "name": "work",
       "breed": "Scottish Deerhound",
       "sex": "male"
     },
@@ -14,9 +14,9 @@
     },
     {
       "id": 3,
-      "name": "snook",
-      "breed": "cat",
-      "sex": "male"
+      "name": "snake",
+      "breed": "dog",
+      "sex": "female"
     },
     {
       "id": 4,
@@ -26,7 +26,7 @@
     },
     {
       "id": 5,
-      "name": "Gracie",
+      "name": "xxxxx",
       "breed": "Miniature Pinscher",
       "sex": "female"
     },
